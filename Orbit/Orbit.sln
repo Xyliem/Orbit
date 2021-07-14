@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{16972ae0-298e-f462-af83-23366d0d0170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digitom.PlaymakerInputSystemActions", "Digitom.PlaymakerInputSystemActions.csproj", "{1d5ce1de-3730-cc68-6e63-a8256870ca90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{432ae494-a6e1-9840-fcbd-f48ac0209cb6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16972ae0-298e-f462-af83-23366d0d0170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16972ae0-298e-f462-af83-23366d0d0170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1d5ce1de-3730-cc68-6e63-a8256870ca90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1d5ce1de-3730-cc68-6e63-a8256870ca90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432ae494-a6e1-9840-fcbd-f48ac0209cb6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432ae494-a6e1-9840-fcbd-f48ac0209cb6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
